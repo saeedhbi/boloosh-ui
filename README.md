@@ -6,13 +6,17 @@ _Currently CSS_
 # Install
 **NPM**
 
-`npm install`
+```
+npm install
+```
 
 or
 
 **YARN**
 
-`yarn install`
+```
+yarn install
+```
 
 and then
 
